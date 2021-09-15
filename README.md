@@ -1,0 +1,2 @@
+# fandray
+weekly
